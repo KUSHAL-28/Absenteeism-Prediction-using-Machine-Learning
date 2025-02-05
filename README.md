@@ -59,3 +59,5 @@ It contains attributes like identification ID, reason for absence (stratified in
   - Age vs Probability
   - Reasons vs Probability
   - Transportation Expense vs Probability
+<img width="493" alt="{71DD64BA-315A-496D-B938-847C82D480A0}" src="https://github.com/user-attachments/assets/e1b25f7c-f6f7-4d34-bf7d-42cfad46a108" />
+
