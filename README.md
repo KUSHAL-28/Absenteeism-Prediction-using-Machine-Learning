@@ -10,7 +10,8 @@ The database was created with records of absenteeism at work from July 2007 to J
 
 **Input Attributes**: 11 | **Output Attributes**: 1
 
-It contains attributes like identification ID, reason for absence (stratified into 21 + 5 categories), month of absence, day of the week (Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6)), seasons (summer (1), autumn (2), winter (3), spring (4)), transportation expense, distance from residence to work (kilometers), service time, age, work load average/day, hit target, disciplinary failure (yes=1; no=0), education (high school (1), graduate (2), postgraduate (3), master and doctor (4)), number of children, social drinker (yes=1; no=0), social smoker (yes=1; no=0), number of pets, weight, height, body mass index, absenteeism time in hours (target).
+It contains attributes like identification ID, reason for absence (stratified into 21 + 5 categories), month of absence, day of the week (Monday (2), Tuesday (3), Wednesday (4), Thursday (5), Friday (6)), seasons (summer (1), autumn (2), winter (3), spring (4)), transportation expense, distance to work (kilometers),Age, Daily Work Load Average, hit target, disciplinary failure (yes=1; no=0), education (high school (1), graduate (2), postgraduate (3), master and doctor (4)), number of children, number of pets, Body mass index, absenteeism time in hours (target).
+
 
 ## Data Preprocessing
 1. Dropped ID column
